@@ -152,5 +152,3 @@ Visit → `http://127.0.0.1:8000` → shows **Hello, Django!**
 6. Add views & URLs.  
 
 ---
-
-Sam, since you’re teaching, do you want me to also prepare a **student-friendly “lab sheet”** with commands and expected outputs (like a checklist they can tick off as they go)? That way they can follow along step by step in class.
